@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presentation_connection_error">تاكد من اتصالك بالانترنت</string>
+    <string name="presentation_end_of_result">نهاية النتائج</string>
+</resources>

@@ -1,0 +1,13 @@
+plugins {
+    id 'kotlin'
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation "io.reactivex.rxjava3:rxjava:$rxJavaVersion"
+    implementation "javax.inject:javax.inject:$javaxInjectVersion"
+    testImplementation "junit:junit:$junitVersion"
+    testImplementation "org.mockito:mockito-core:$mockitoVersion"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+}

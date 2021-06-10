@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">presentation</string>
+    <string name="presentation_connection_error">connection error</string>
+    <string name="presentation_end_of_result">End Of Result</string>
+</resources>

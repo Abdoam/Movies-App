@@ -1,0 +1,7 @@
+include ':presentation'
+include ':local'
+include ':data'
+include ':remote'
+include ':domain'
+include ':app'
+rootProject.name = "Movies"
